@@ -1,0 +1,23 @@
+{
+  "name": "test-driven-fizzbuzz",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote -v"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "23.6.0"
+  },
+  "dependencies": {
+    "fsevents": "1.2.7",
+    "watchman": "1.0.0"
+  }
+}
